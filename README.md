@@ -1,4 +1,5 @@
 # House Price Prediction 
+![logo](price-pred.jpg)
 
 This repository contains the code and documentation for a machine learning project aimed at predicting house prices. In this project, we explore various machine learning models, data preprocessing techniques, and data analysis to build an accurate house price prediction model.
 
