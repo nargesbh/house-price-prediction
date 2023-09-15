@@ -1,7 +1,7 @@
 # House Price Prediction 
 ![logo](price-pred.jpg)
 
-This repository contains the code and documentation for a machine learning project aimed at predicting house prices. In this project, we explore various machine learning models, data preprocessing techniques, and data analysis to build an accurate house price prediction model.
+This repository contains the code and documentation for a machine learning project aimed at predicting house prices. In this project, I explore various machine learning models, data preprocessing techniques, and data analysis to build an accurate house price prediction model.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ This repository contains the code and documentation for a machine learning proje
 
 ## Introduction
 
-The goal of this project is to predict house prices based on various features such as the type of zoning, lot area, sale condition, and more. We employ a variety of machine learning models, including linear regression, polynomial linear regression, decision trees, random forests, and neural networks, to find the best predictive model.
+The goal of this project is to predict house prices based on various features such as the type of zoning, lot area, sale condition, and more. I employ a variety of machine learning models, including linear regression, polynomial linear regression, decision trees, random forests, and neural networks, to find the best predictive model.
 
 ## Getting Started
 
@@ -33,19 +33,19 @@ To run this project locally, follow these steps:
 5. Run the Jupyter notebooks or Python scripts to execute the code for data preprocessing, analysis, and model training.
 ## Data Preprocessing
 
-In the data preprocessing phase, we handle missing values, encode categorical features using one-hot encoding, and normalize the data using the MinMaxScaler from scikit-learn. We also handle outliers and perform feature engineering when necessary.
+In the data preprocessing phase, I handle missing values, encode categorical features using one-hot encoding, and normalize the data using the MinMaxScaler from scikit-learn. I also handle outliers and perform feature engineering when necessary.
 
 ## Exploratory Data Analysis
 
-In this section, we explore the dataset visually by creating scatter plots, box plots, and correlation matrices to gain insights into the relationships between different features and the target variable (SalePrice).
+In this section, I explore the dataset visually by creating scatter plots, box plots, and correlation matrices to gain insights into the relationships between different features and the target variable (SalePrice).
 
 ## Modeling
 
-We experiment with multiple machine learning models, including linear regression, polynomial linear regression, decision trees, random forests, and neural networks. We perform hyperparameter tuning and cross-validation to optimize the model's performance.
+I experiment with multiple machine learning models, including linear regression, polynomial linear regression, decision trees, random forests, and neural networks. I perform hyperparameter tuning and cross-validation to optimize the model's performance.
 
 ## Results
 
-Here are some of the results achieved in our project:
+Here are some of the results achieved in my project:
 
 - **Linear Regression**:
   - Accuracy on test data: 67,212.67
